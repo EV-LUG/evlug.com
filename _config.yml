@@ -1,7 +1,7 @@
 # General
 name: "EVLUG"
 description: "Evansville Linux User Group"
-url: http://evlug.s3-website-us-east-1.amazonaws.com
+url: http://www.evlug.com
 
 markdown: redcarpet
 highlighter: pygments
