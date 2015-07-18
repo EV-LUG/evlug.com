@@ -318,3 +318,10 @@ table {
     .social { text-align: center; }
     .social li { display: block; width: 100%; }
 }
+input[type="email"], textarea, input[type="text"], button[type="submit"] {
+  display: block;
+  width: 300px;
+  margin: 10px auto;
+  border: 0px;
+  padding: 13px;
+}
