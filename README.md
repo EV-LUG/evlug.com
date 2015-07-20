@@ -1,7 +1,7 @@
+[![Join the chat at https://gitter.im/EV-LUG/www.evlug.com](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/EV-LUG/www.evlug.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Setting up
 ----------------
-
-[![Join the chat at https://gitter.im/EV-LUG/www.evlug.com](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/EV-LUG/www.evlug.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 To start you own blog, simply git clone the repository on github.
 
     git clone https://github.com/drvy/minimal-block.git
