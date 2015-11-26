@@ -5,6 +5,7 @@ url: http://www.evlug.com
 
 markdown: redcarpet
 highlighter: pygments
+gems: [jekyll-paginate]
 
 paginate: 5
 permalink: /:title
